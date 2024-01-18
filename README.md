@@ -9,23 +9,10 @@ Objective: Explore insights on underage marriage, domestic violence, and menstru
 Libraries Used: Scikit-learn, Seaborn, Matplotlib.
 Data Source: www.data.gov.in
 
-Usage:
-streamlit run women_insights.py
-
 2. Education and Population Comparison
 
 Objective: Analyze GPI differences in higher education and dropout rates in schools across urban and rural areas state-wise.
 Libraries Used: Scikit-learn, Seaborn, Matplotlib.
-
-Data Source: www.data.gov.in
-
-Datasets
-
-The datasets used in this project are sourced from the official government website www.data.gov.in. These datasets provide comprehensive information on various aspects of women's issues and education in India.
-
-How to Run Locally
-Clone the repository:
-git clone https://github.com/your-username/your-repository.git
 
 link to the video presentation of my project is given here :https://drive.google.com/file/d/1IjvewclMeFMKri8EKUJDAwHbHARWQjbS/view
 
