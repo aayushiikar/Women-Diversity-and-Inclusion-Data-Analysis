@@ -26,8 +26,8 @@ The datasets used in this project are sourced from the official government websi
 How to Run Locally
 Clone the repository:
 git clone https://github.com/your-username/your-repository.git
-Install dependencies:
 
+link to the video presentation of my project is given here :https://drive.google.com/file/d/1IjvewclMeFMKri8EKUJDAwHbHARWQjbS/view
 
 Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated!
