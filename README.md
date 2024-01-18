@@ -1,4 +1,4 @@
-Women Diversity and Inclusion Data Analysis
+# Women Diversity and Inclusion Data Analysis
 
 Overview
 This project aims to explore and analyze various aspects of women's issues in India, focusing on factors like underage marriage, domestic violence, menstrual hygiene, Gender Parity Index (GPI) differences in higher education, and dropout rates in schools. The data is sourced from the official government website www.data.gov.in, and the analysis is presented through three Streamlit web applications.
